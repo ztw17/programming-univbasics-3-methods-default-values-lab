@@ -2,19 +2,21 @@
 
 ## Learning Goals
 
-- Define a method that takes in required and optional arguments
+- Define a method that takes required and optional arguments
 - Use `puts` to output a string
 - Define a return value
 
 ## Introduction
 
-We've demonstrated the basics of defining methods, printing output, and
+We've covered the basics of defining methods, printing output, and
 returning values. Let's combine the concepts we've shown you to create a "Meal
 Choice" in our Ruby program.
 
-## Define a Method that Takes in Required and Optional Arguments
+## Define a Method that Takes Required and Optional Arguments
 
-We're attending a wedding and the newlyweds-to-be want to know what types of food they should provide at the banquet. Define a method named `meal_choice` that has **three** parameters:
+We're attending a wedding and the newlyweds-to-be want to know what
+types of food they should provide at the banquet. Define a method named
+`meal_choice` that has **three** parameters:
 
 - Two _required_ parameters for vegetables. Ex: `veg1` and `veg2`
 - And an _optional_ parameter for `protein` with a default value of `meat`
@@ -46,4 +48,4 @@ chosen by returning: "A plate of #{protein} with #{veg1} and #{veg2}."
 
 You're all set! You've successfully written a series of Ruby methods utilizing
 all of the various Ruby basics we've discussed this far. Now, we'll teach you
-about scope, and how information can be passed around to different methods.
+about scope and how information can be passed around to different methods.

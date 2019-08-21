@@ -45,5 +45,5 @@ chosen by returning: "A plate of #{protein} with #{veg1} and #{veg2}."
 ## Conclusion
 
 You're all set! You've successfully written a series of Ruby methods utilizing
-all of the various Ruby basics we've discuss thus far. Now, we'll teach you
+all of the various Ruby basics we've discussed this far. Now, we'll teach you
 about scope, and how information can be passed around to different methods.
